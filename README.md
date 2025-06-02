@@ -1,1 +1,2 @@
-These are minimal level applications written with high school students in robotics coding trainings held in Balıkesir Metropolitan Municipality. The students wrote these applications themselves.
+[En] -> These are minimal level applications written with high school students in robotics coding trainings held in Balıkesir Metropolitan Municipality. The students wrote these applications themselves.
+[Tr] -> Bunlar Balıkesir Büyükşehir Belediyesi'nde düzenlenen robotik kodlama eğitimlerinde lise öğrencileriyle birlikte yazılan minimal seviye uygulamalardır. Öğrenciler bu uygulamaları kendileri yazmışlardır.
